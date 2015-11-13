@@ -1,0 +1,3 @@
+[submodule "submodule-practice-sub"]
+	path = submodule-practice-sub
+	url = git@github.com:yutaono/submodule-practice-sub.git
